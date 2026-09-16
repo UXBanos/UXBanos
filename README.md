@@ -56,7 +56,7 @@ Regularly:
 
 ## Contact
 
-You can reach me by email at: [mailto:hello@uxbanos.com](hello@uxbanos.com)
+You can reach me by email at: [hello@uxbanos.com](mailto:hello@uxbanos.com)
 
 ---
 
