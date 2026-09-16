@@ -11,6 +11,11 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" height="22"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="22"/>
   <img src="https://img.shields.io/badge/3ds_Max-0696D7?style=flat&logo=autodesk&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/V--Ray-1B1B1B?style=flat" height="22"/>
+  <img src="https://img.shields.io/badge/Corona-E8531E?style=flat" height="22"/>
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat" height="22"/>
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=flat&logo=davinciresolve&logoColor=white" height="22"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" height="22"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white" height="22"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="22"/>
@@ -34,9 +39,11 @@ I take ownership of the whole pipeline: I prepare the 3D content and work on lig
 
 Every day:
 
-- **Unreal Engine Blueprints**
+- **Unreal Engine**
+- **Blueprints**
 - **C++**
 - **Python**
+- **Figma**
 
 Regularly:
 
@@ -44,6 +51,14 @@ Regularly:
 - **Node.js**
 - **Astro**
 - **Pixel Streaming**
+
+3D and post-production:
+
+- **3ds Max + V-Ray / Corona**
+- **Blender**
+- **Photoshop**
+- **DaVinci Resolve**
+
 
 ## Interests
 
