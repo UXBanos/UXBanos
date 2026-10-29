@@ -50,7 +50,7 @@ Regularly:
 
 3D and post-production:
 
-- **3ds Max + V-Ray / Corona**
+- **V-Ray**
 - **Blender**
 - **Photoshop**
 - **DaVinci Resolve**
